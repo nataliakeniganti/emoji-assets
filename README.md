@@ -1,6 +1,6 @@
 # Emoji Assets
 
-This repository hosts all of the JoyPixels emoji image assets & corresponding font files (thanks @maximbaz) which can be used to add emoji support to your projects. For more information and usage examples please see our main repository: 
+This repository hosts all of the JoyPixels emoji image assets which can be used to add emoji support to your projects. For more information and usage examples please see our main repository: 
 
 > [JoyPixels Emoji Toolkit](https://github.com/joypixels/emoji-toolkit)
 > [![npm version](https://img.shields.io/npm/v/emoji-toolkit.svg)](https://www.npmjs.com/package/emoji-toolkit) [![npm downloads](https://img.shields.io/npm/dt/emoji-toolkit.svg)](https://www.npmjs.com/package/emoji-toolkit)
